@@ -3,7 +3,7 @@ Java Coding Assignment #1:
 
 clone project into local system by using command prompt by issuing following command:
 
-git clone: <url>
+git clone: https://github.com/AkhilVenkat/Ccd.git
 
 Change currrent directory to project root directory
 
